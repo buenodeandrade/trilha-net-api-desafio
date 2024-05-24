@@ -51,4 +51,4 @@ This is the Task schema (model) used to pass to methods that require it:
 
 
 ## Solution
-The code is halfway done, and you should continue it according to the rules described above so that in the end, we have a functional program. Look for the commented word "TODO" in the code, then implement it according to the above rules.
+The code was completed according to the rules described above so now we have a functional program. It was implemented according to all the commented word "TODO" in the original code.
